@@ -107,4 +107,4 @@ Funcionalidade: Visualizar e Excluir Cursos<br><br>
     Então o curso deve ser removido da lista de cursos<br>
     E o sistema deve exibir uma mensagem confirmando que o curso foi excluído com sucesso<br><br><br>
 
-   >Durante o projeto fora utilizado a metodologia ágil com om framework Scrum, sendo analisado artefatos por ordem de importância. Quanto os testes, foram utilizados os métodos de teste Caixa Preta, pois foram analisados os comportamentos de entrada e saída do software e o layout, sem acesso ao código fonte.
+   >Durante o projeto fora utilizado a metodologia ágil com framework Scrum, sendo analisado artefatos por ordem de importância. Quanto aos testes, utilizei o método de teste funcional baseado nas partes críticas do sistema, focando no fluxo básico, fluxo alternativo e fluxo de exceção
