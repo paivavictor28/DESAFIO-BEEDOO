@@ -1,5 +1,8 @@
 # DESAFIO-BEEDOO<br><br>
 
+[Plano de Testes](https://docs.google.com/spreadsheets/d/1w5yE3EWMGonjFGHuVk9z16AMYCi-kO6GkLVTQcBrsPc/edit?usp=sharing)<br>
+[Bug Report](https://docs.google.com/spreadsheets/d/1slf5BBF518bXavaUtJ-q-lfvjbDRnR0buGHS7Mot_Ow/edit?usp=sharing)<br><br>
+
 User Story 1: Criando um Curso<br>
 Como administrator,<br>
 Eu quero criar um novo curso,<br>
