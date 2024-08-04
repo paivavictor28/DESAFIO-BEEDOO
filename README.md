@@ -1,7 +1,8 @@
 # DESAFIO-BEEDOO<br><br>
 
 [Plano de Testes](https://docs.google.com/spreadsheets/d/1w5yE3EWMGonjFGHuVk9z16AMYCi-kO6GkLVTQcBrsPc/edit?usp=sharing)<br>
-[Bug Report](https://docs.google.com/spreadsheets/d/1slf5BBF518bXavaUtJ-q-lfvjbDRnR0buGHS7Mot_Ow/edit?usp=sharing)<br><br>
+[Bug Report](https://docs.google.com/spreadsheets/d/1slf5BBF518bXavaUtJ-q-lfvjbDRnR0buGHS7Mot_Ow/edit?usp=sharing)<br>
+[Evidências](https://drive.google.com/drive/folders/1sfqNiMeHx_j6LVvvlyN9GBWGZlOdDCjo?usp=sharing)<br><br>
 
 User Story 1: Criando um Curso<br>
 Como administrator,<br>
@@ -104,4 +105,6 @@ Funcionalidade: Visualizar e Excluir Cursos<br><br>
     Então o sistema deve exibir uma mensagem de confirmação<br>
     Quando ele confirmar a exclusão<br>
     Então o curso deve ser removido da lista de cursos<br>
-    E o sistema deve exibir uma mensagem confirmando que o curso foi excluído com sucesso<br>
+    E o sistema deve exibir uma mensagem confirmando que o curso foi excluído com sucesso<br><br><br>
+
+    Durante o projeto fora utilizado a metodologia ágil com om framework SCRUMBAN, sendo analisado artefatos por ordem de importância e cascata. Quanto os testes, foram utilizados os métodos de teste Caixa Preta e Funcionais, pois foram analisados os comportamentos de entrada e saída do software e o layout, sem acesso ao código fonte.
